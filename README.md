@@ -72,11 +72,46 @@ Building **open-source solutions for Smart Manufacturing** — PLC programming, 
 
 <div align="center">
 
-[![Smart-OEE-Platform](https://github-readme-stats.vercel.app/api/pin/?username=MRBYTEPLC&repo=Smart-OEE-Platform&theme=react&hide_border=true&title_color=00C8FF&text_color=C9D1D9&bg_color=0D1117)](https://github.com/MRBYTEPLC/Smart-OEE-Platform)
-[![Industrial_Energy_Analytics](https://github-readme-stats.vercel.app/api/pin/?username=MRBYTEPLC&repo=Industrial_Energy_Analytics&theme=react&hide_border=true&title_color=00C8FF&text_color=C9D1D9&bg_color=0D1117)](https://github.com/MRBYTEPLC/Industrial_Energy_Analytics)
+<table>
+<tr>
+<td width="50%">
 
-[![5s-audit-tracker-report-PRO](https://github-readme-stats.vercel.app/api/pin/?username=MRBYTEPLC&repo=5s-audit-tracker-report-PRO&theme=react&hide_border=true&title_color=00C8FF&text_color=C9D1D9&bg_color=0D1117)](https://github.com/MRBYTEPLC/5s-audit-tracker-report-PRO)
-[![iiot-edge-core](https://github-readme-stats.vercel.app/api/pin/?username=MRBYTEPLC&repo=iiot-edge-core&theme=react&hide_border=true&title_color=00C8FF&text_color=C9D1D9&bg_color=0D1117)](https://github.com/MRBYTEPLC/iiot-edge-core)
+#### 🏭 [Smart-OEE-Platform](https://github.com/MRBYTEPLC/Smart-OEE-Platform)
+OEE tracking — Availability × Performance × Quality
+<br>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%">
+
+#### ⚡ [Industrial_Energy_Analytics](https://github.com/MRBYTEPLC/Industrial_Energy_Analytics)
+Energy consumption tracking for industrial plants
+<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🧹 [5s-audit-tracker-report-PRO](https://github.com/MRBYTEPLC/5s-audit-tracker-report-PRO)
+5S audit reporting & tracking tool
+<br>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</td>
+<td width="50%">
+
+#### 🔗 [iiot-edge-core](https://github.com/MRBYTEPLC/iiot-edge-core)
+Core IIoT edge computing framework
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -89,7 +124,6 @@ Building **open-source solutions for Smart Manufacturing** — PLC programming, 
 | [`PYTHON-FROM-SCRATCH--TRAINING`](https://github.com/MRBYTEPLC/PYTHON-FROM-SCRATCH--TRAINING) | Python | Python fundamentals training material |
 | [`stem-academy-school`](https://github.com/MRBYTEPLC/stem-academy-school) | JavaScript | STEM education platform |
 
----
 
 ### 📺 Latest from YouTube
 
@@ -123,9 +157,6 @@ Have a question, idea, or feedback? **Leave me a message directly on GitHub** �
 [![All Messages](https://img.shields.io/badge/View_All_Messages-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MRBYTEPLC/MRBYTEPLC/issues)
 
 </div>
-
-<sub>📌 To enable this: go to your profile repo `MRBYTEPLC/MRBYTEPLC` → **Settings** → make sure **Issues** is checked under Features. Anyone can then click "Leave a Message" above to open a new Issue (= send you a message). You can reply, close, or permanently delete any issue from the Issues tab whenever you want.</sub>
-
 ---
 
 <div align="center">
