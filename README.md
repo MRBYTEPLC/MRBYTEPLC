@@ -65,11 +65,6 @@ Building **open-source solutions for Smart Manufacturing** — PLC programming, 
 
 <div align="center">
 
-![Mr. BytePLC's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRBYTEPLC&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=00C8FF&icon_color=00C8FF&text_color=C9D1D9&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRBYTEPLC&layout=compact&theme=react&hide_border=true&title_color=00C8FF&text_color=C9D1D9&bg_color=0D1117)
-
-
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MRBYTEPLC&theme=react&hide_border=true&background=0D1117&ring=00C8FF&fire=FF6B00&currStreakLabel=00C8FF)
 
