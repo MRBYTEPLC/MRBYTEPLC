@@ -170,7 +170,6 @@ Have a question, idea, or feedback? **Leave me a message directly on GitHub** �
 
 </div>
 
-<sub>📌 To enable this: go to your profile repo `MRBYTEPLC/MRBYTEPLC` → **Settings** → make sure **Issues** is checked under Features. Anyone can then click "Leave a Message" above to open a new Issue (= send you a message). You can reply, close, or permanently delete any issue from the Issues tab whenever you want.</sub>
 
 ---
 
