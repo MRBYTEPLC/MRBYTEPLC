@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/29490638/README.md)
 <div align="center">
 
-<img src="assets/banner.png" alt="Mr.BytePLC — Building open-source solutions for Smart Manufacturing" width="100%"/>
+<img src="main/banner.png" alt="Mr.BytePLC — Building open-source solutions for Smart Manufacturing" width="100%"/>
 
 ### ⚙️ Building open-source solutions for Smart Manufacturing
 
