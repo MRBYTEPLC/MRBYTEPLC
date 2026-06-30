@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/29490005/README.md)
-
+[README.md](https://github.com/user-attachments/files/29490073/README.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A2A3F,100:00C8FF&height=260&section=header&text=Mr.BytePLC&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Smart-OEE-Platform%20-nl-%20Industrial_Energy_Analytics%20-nl-%205s-audit-tracker-report-PRO%20-nl-%20iiot-edge-core%20-nl-%20PYTHON-FROM-SCRATCH--TRAINING%20-nl-%20stem-academy-school&descSize=18&descAlignY=62&descAlign=50"/>
