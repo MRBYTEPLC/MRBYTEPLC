@@ -48,6 +48,17 @@ Building **open-source solutions for Smart Manufacturing** — PLC programming, 
 ![IIoT](https://img.shields.io/badge/-IIoT%20%2F%20Edge-00C8FF?style=flat-square)
 ![OEE](https://img.shields.io/badge/-OEE%20Tracking-00E57A?style=flat-square)
 
+**Industrial Hardware & Robotics Platforms**
+
+![Cognex](https://img.shields.io/badge/-Cognex-001E62?style=flat-square)
+![Keyence](https://img.shields.io/badge/-Keyence-CC0000?style=flat-square)
+![Datalogic](https://img.shields.io/badge/-Datalogic-E2231A?style=flat-square)
+![Atlas Copco](https://img.shields.io/badge/-Atlas%20Copco-0046AD?style=flat-square)
+![Fanuc](https://img.shields.io/badge/-Fanuc-FFD400?style=flat-square&logoColor=black)
+![Motoman](https://img.shields.io/badge/-Motoman-1C1C1C?style=flat-square)
+![Yaskawa](https://img.shields.io/badge/-Yaskawa-00529B?style=flat-square)
+
+
 ---
 
 ### 📊 GitHub Stats (Real Activity)
